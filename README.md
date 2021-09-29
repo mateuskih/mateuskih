@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Mateus</h1>
+<h1 align="center">Olá, eu sou o Mateus</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
 
