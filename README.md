@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo softwares.
 - 💼 &nbsp; Buscando oportunidades como desenvolvedor WEB
-- 📝 &nbsp; Estudando Typescript, ReactJS e NextJS
+- 📝 &nbsp; Estudando Typescript, Node.js and Vue.js
 
 <br/>
 <h3> 🚀 &nbsp; Minhas Skills </h3>
