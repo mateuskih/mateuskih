@@ -47,11 +47,11 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 <br/>
 
-
+<!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuskih&show_icons=true&locale=en" alt="mateuskih" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuskih&" alt="mateuskih" /></p>
-
+-->
 
 <h3> 📧 &nbsp; Onde me encontrar: </h3> 
 
