@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou o Mateus</h1>
-<h3 align="center">Desenvolvedor Full-Stack</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 
 <h3> 👦 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo softwares.
-- 💼 &nbsp; Buscando oportunidades como desenvolvedor WEB
-- 📝 &nbsp; Estudando Typescript, Node.js and Vue.js
+- 🤔 &nbsp; Com mais de três anos de experiência no mercado de desenvolvimento web, tenho paixão por inovação e aprendizado contínuo. Comprometido com a excelência, busco criar soluções digitais que superem as expectativas dos clientes. Ansioso por novos desafios, estou confiante em contribuir para o sucesso de equipes e projetos com minha mentalidade voltada para a resolução eficaz de problemas.
+- 💼 &nbsp; Aberto a oportunidades como Desenvolvedor Web.
+- 📝 &nbsp; Estudando Typescript, Java e AWS.
 
 <br/>
 <h3> 🚀 &nbsp; Minhas Skills </h3>
@@ -16,8 +16,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
