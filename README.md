@@ -48,9 +48,9 @@
 <br/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkihxd&show_icons=true&locale=en" alt="arkihxd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuskihxd&show_icons=true&locale=en" alt="mateuskihxd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkihxd&" alt="arkihxd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuskihxd&" alt="mateuskihxd" /></p>
 
 
 <h3> 📧 &nbsp; Onde me encontrar: </h3> 
