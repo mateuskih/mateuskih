@@ -15,7 +15,7 @@ Mais de 5 anos de experiência em desenvolvimento web. Apaixonado por inovação
 
 - **Bacharelado em Sistemas de Informação**  
   Universidade Tecnológica Federal do Paraná, Curitiba  
-  *01/2021 - 01/2025*
+  *01/2021 - 01/2026*
 
 - **Ensino Médio Técnico em Informática**  
   Instituto Federal do Paraná, Paranaguá  
